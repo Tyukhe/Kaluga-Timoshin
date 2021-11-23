@@ -1,4 +1,4 @@
-def print_hi:
+def print_hi():
     print('My first git-repo')
 
 
